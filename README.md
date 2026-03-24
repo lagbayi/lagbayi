@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**lagbayi/lagbayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Web Application Security Practitioner | Continuous Learner | Future Bug Bounty Hunter
 
-Here are some ideas to get you started:
+I am an intermediate-level web application security practitioner with hands-on experience in vulnerability discovery, exploitation, and reconnaissance workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach combines structured lab-based learning with practical tooling and automation, as I transition into real-world security testing and bug bounty hunting.
+
+---
+
+## 🧠 Core Competencies
+
+- 🔍 Web Application Reconnaissance & Attack Surface Mapping  
+- 💉 SQL Injection (UNION-based, Blind, Enumeration & Exploitation)  
+- 🔐 Authentication & Access Control Testing  
+- 🧩 Vulnerability Analysis & Proof-of-Concept Development  
+- ⚙️ Security Automation & Workflow Optimization  
+
+---
+
+## 🧪 Practical Experience
+
+### 💉 SQL Injection (Hands-on)
+- Determined column counts using UNION attacks  
+- Extracted data from databases via injection points  
+- Practiced blind SQLi techniques (Boolean & time-based)  
+- Understood backend query behavior and exploitation logic  
+
+---
+
+### 🕵️ Reconnaissance & Enumeration
+- Subdomain discovery using Subfinder & Amass  
+- Directory and endpoint fuzzing with FFUF & Feroxbuster  
+- Identifying hidden attack surfaces in web applications  
+
+---
+
+### ⚙️ Scanning & Automation
+- Vulnerability scanning with Nuclei  
+- Built modular recon workflows for repeatable testing  
+- Working toward AI-assisted vulnerability analysis  
+
+---
+
+## 🛠️ Tools & Technologies
+
+```bash
+Languages: Python | Bash | SQL
+Proxy & Testing: Burp Suite
+Recon: Subfinder | Amass | Assetfinder
+Fuzzing: FFUF | Feroxbuster
+Scanning: Nuclei | Nmap
+
+🚀 Projects
+⚠️ Ethics & Disclaimer
+
+All testing is conducted within authorized environments (labs, CTFs, and permitted programs).
+I am committed to ethical security research and responsible disclosure.
+
+“Understand the system. Break it methodically. Learn continuously. Improve relentlessly.”
+
+**Certificates**
+ 
