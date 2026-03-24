@@ -43,7 +43,6 @@ My approach combines structured lab-based learning with practical tooling and au
 ---
 
 ## 🛠️ Tools & Technologies
-
 ```bash
 Languages: Python | Bash | SQL
 Proxy & Testing: Burp Suite
@@ -51,13 +50,6 @@ Recon: Subfinder | Amass | Assetfinder
 Fuzzing: FFUF | Feroxbuster
 Scanning: Nuclei | Nmap
 
-🚀 Projects
-⚠️ Ethics & Disclaimer
 
-All testing is conducted within authorized environments (labs, CTFs, and permitted programs).
-I am committed to ethical security research and responsible disclosure.
 
-“Understand the system. Break it methodically. Learn continuously. Improve relentlessly.”
-
-**Certificates**
  
